@@ -44,18 +44,18 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20051709.png
+<img src="https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20051709.png">
 *The landing screen where the user selects their preferred AI Astrologer voice.*
 
-https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20051923.png
+<img src="https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20051923.png">
 *The real-time MediaPipe ML model tracking the user's hand and aligning it for the perfect read.*
 
-https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20052002.png
+<img src="https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20052002.png">
 *The final generated Malayalam roast, playing back with expressive neural audio.*
 
 ### Project Demo
 # Video
-[(https://github.com/Arni-codes/kai_nokki/blob/main/kai.mp4)]
+<video src="kai.mp4"></video>
 *Video demonstrating the palm scanning process and the AI roasting the user in Malayalam.*
 
 
