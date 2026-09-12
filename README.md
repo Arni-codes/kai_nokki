@@ -55,7 +55,9 @@ For Software:
 
 ### Project Demo
 # Video
-<video src="kai.mp4"></video>
+
+
+
 *Video demonstrating the palm scanning process and the AI roasting the user in Malayalam.*
 
 
