@@ -3,12 +3,12 @@
 # Kai Nokki (കൈ നോക്കി) 🎯
 
 ## Basic Details
-### Team Name: AstroBrothers
+### Team Name: LESS ( useless de less tto)
 
 ### Team Members
-- Team Lead: ArniTeja Vijay - Government Engineering College CKG
-- Member 2: Sidharth P - Government Engineering College CKG
-- Member 3: [N/A] - [N/A]
+- Team Lead: ArniTeja Vijay - Government Engineering College Kozhikode
+- Member 2: Sidharth P - Government Engineering College Kozhikode
+
 
 ### Project Description
 Kai Nokki is an AI-powered, hilarious Kerala-style palm-reading web application. It uses real-time computer vision to analyze your palm and delivers sarcastic, highly expressive astrological "roasts" in authentic colloquial Malayalam audio.
@@ -27,10 +27,6 @@ For Software:
 - Tailwind CSS, MediaPipe Hands, @google/genai (Gemini API)
 - EdgeTTS (for Malayalam Neural Voice), Vite, WebRTC API
 
-For Hardware:
-- [N/A]
-- [N/A]
-- [N/A]
 
 ### Implementation
 For Software:
@@ -48,50 +44,25 @@ npm run dev
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20051709.png
 *The landing screen where the user selects their preferred AI Astrologer voice.*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20051923.png
 *The real-time MediaPipe ML model tracking the user's hand and aligning it for the perfect read.*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+https://github.com/Arni-codes/kai_nokki/blob/main/Screenshot%202026-09-12%20052002.png
 *The final generated Malayalam roast, playing back with expressive neural audio.*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Architecture showing WebRTC capturing video -> MediaPipe extracting landmarks -> Gemini generating Malayalam Roast -> EdgeTTS synthesizing the audio -> Client playing it back.*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*N/A*
-
-![Schematic](Add your schematic diagram here)
-*N/A*
-
-# Build Photos
-![Components](Add photo of your components here)
-*N/A*
-
-![Build](Add photos of build process here)
-*N/A*
-
-![Final](Add photo of final product here)
-*N/A*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[(https://github.com/Arni-codes/kai_nokki/blob/main/kai.mp4)]
 *Video demonstrating the palm scanning process and the AI roasting the user in Malayalam.*
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- ArniTeja Vijay: Core logic for MediaPipe Hand Tracking, Prompt Engineering for Malayalam sarcastic humor, and Text-to-Speech integration.
-- Sidharth P: Frontend UI/UX design with Tailwind CSS, WebRTC Camera setup, and expressive audio playback synchronization.
-- [N/A]: [N/A]
+- Sidharth P: Core logic for MediaPipe Hand Tracking, Prompt Engineering for Malayalam sarcastic humor, and Text-to-Speech integration.
+- Arniteja Vijay: Frontend UI/UX design with Tailwind CSS, WebRTC Camera setup, and expressive audio playback synchronization.
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
